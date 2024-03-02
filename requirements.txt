@@ -1,0 +1,4 @@
+tweepy
+flask
+tracery3
+colorama
